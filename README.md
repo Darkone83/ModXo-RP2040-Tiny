@@ -1,6 +1,6 @@
 # ModXo-RP2040-Tiny
 
-
+![alt text](https://github.com/Darkone83/ModXo-RP2040-Tiny/blob/main/Images/logo.png?raw=true)![alt text](https://github.com/Darkone83/ModXo-RP2040-Tiny/blob/main/Images/Shalx-TR.png?raw=true)![alt text](https://github.com/Darkone83/ModXo-RP2040-Tiny/blob/main/Images/DC%20logo.png?raw=true)
 
 A PCB redesign on the ModXo V1.0 with added support for Epimetheus
 
