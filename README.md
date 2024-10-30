@@ -4,7 +4,7 @@
 
 A PCB redesign on the ModXo V1.0 with added support for Epimetheus
 
-This is designed around Team Resutgents and Shalx's work on ModXo an open source modchip, additoinally support for OfficialTeamUIX's Epimetheus has been encorporated in to the PCB
+This is designed around Team Resutgents and Shalx's work on ModXo an open source modchip, additoinally support for OfficialTeamUIX's Epimetheus has been encorporated into the PCB
 
 For more information on the software side of things and the ModXo project please visit : https://github.com/Team-Resurgent/Modxo
 
