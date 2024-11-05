@@ -12,6 +12,8 @@ RP2040 Tiny: <a href="https://www.aliexpress.us/item/3256805774173283.html?spm=a
 
 JST SH 6 Pin Cables: <a href="https://www.aliexpress.us/item/3256804332710255.html?spm=a2g0o.detail.pcDetailTopMoreOtherSeller.5.245bNc4KNc4Kdm&gps-id=pcDetailTopMoreOtherSeller&scm=1007.40050.354490.0&scm_id=1007.40050.354490.0&scm-url=1007.40050.354490.0&pvid=6b58b5af-718a-4929-bfb1-9a0c24fd9d3c&_t=gps-id:pcDetailTopMoreOtherSeller,scm-url:1007.40050.354490.0,pvid:6b58b5af-718a-4929-bfb1-9a0c24fd9d3c,tpp_buckets:668%232846%238112%231997&pdp_npi=4%40dis%21USD%210.46%210.40%21%21%210.46%210.40%21%402103241117302619299196939e5dfc%2112000029449896682%21rec%21US%21196794698%21X&utparam-url=scene%3ApcDetailTopMoreOtherSeller%7Cquery_from%3A">AliExpress</a> Select 100mm length, 6 Pin 10 Pcs, SH 1.0MM Dual for Color, Request same direction!!!
 
+For a smaller build Theirs an iBOM (Smol) and gerbers in the Smol directory
+
 For more information on the software side of things and the ModXo project please visit : https://github.com/Team-Resurgent/Modxo
 
 For more information on Epimetheus please visit: https://github.com/OfficialTeamUIX/Epimetheus 
