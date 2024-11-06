@@ -68,7 +68,9 @@ The STM32F030C8C6 is the core of the Epimetheus functionality portion of the boa
 
 Install U3, DISP, i2c_EXP, RGB_EXP, if using the RGB_EXP port install jumper wire from the tiny to the RGB TP to enable the functionality
 
+### Notice
 
+Soldering in the header for PROG is optional as you can insert pins and lighty wedge them in place to program the chip
 
 
 
