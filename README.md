@@ -31,6 +31,7 @@ PCB: Cointains the gerbers for the fullsize board along with the pick-and-place 
 
 Smol: Contains gerbers for the Smol board along with the pick-and-place file
 
+
 # Assembly
 
 ## ModXo
@@ -49,7 +50,8 @@ The STM32F030C8C6 is the core of the Epimethues finctionality of the board these
 
 Install U3, DISP, i2c_EXP, RGB_EXP, if using the RGB_EXP port install jumper wire from the tiny to the RGB TP to enable functionality
 
-#Pinouts 
+
+# Pinouts 
 
 Prog: 
 
