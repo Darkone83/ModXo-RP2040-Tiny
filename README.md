@@ -26,7 +26,9 @@ For more information on the software side of things and the ModXo project please
 
 For more information on Epimetheus please visit: https://github.com/OfficialTeamUIX/Epimetheus 
 
-Please note: No firmware is provided for the STM32 you will need to either code your own firmware or legaly obtain a firmware image
+### Notice
+
+No firmware is provided for the STM32 you will need to either code your own firmware or legaly obtain a firmware image
 
 
 
