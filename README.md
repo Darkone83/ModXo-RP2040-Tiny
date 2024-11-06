@@ -16,6 +16,10 @@ JST SH 6 Pin Cables:
 
 Or if you want to build out your own you can use this listing on <a href="https://www.amazon.com/gp/product/B0BKSNMCV4/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1">Amazon</a>
 
+
+
+
+
 For a smaller build Theirs an iBOM (Smol) in the root folder and gerbers in the Smol directory
 
 For more information on the software side of things and the ModXo project please visit : https://github.com/Team-Resurgent/Modxo
@@ -23,6 +27,10 @@ For more information on the software side of things and the ModXo project please
 For more information on Epimetheus please visit: https://github.com/OfficialTeamUIX/Epimetheus 
 
 Please note: No firmware is provided for the STM32 you will need to either code your own firmware or legaly obtain a firmware image
+
+
+
+
 
 
 # Navigation
@@ -34,6 +42,10 @@ Images: Contains branding images along with PCB images for the fullsize and the 
 PCB: Cointains the gerbers for the fullsize board along with the pick-and-place file
 
 Smol: Contains gerbers for the Smol board along with the pick-and-place file
+
+
+
+
 
 
 # Assembly
@@ -53,6 +65,10 @@ The STM32F030C8C6 is the core of the Epimethues finctionality of the board these
 ### Port Assembly
 
 Install U3, DISP, i2c_EXP, RGB_EXP, if using the RGB_EXP port install jumper wire from the tiny to the RGB TP to enable functionality
+
+
+
+
 
 
 # Pinouts 
