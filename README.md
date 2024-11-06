@@ -60,7 +60,7 @@ The VCC Circuit pulls 5V and GND from the LPC 5V is on PIN 6 and GND can be foun
 
 ### STM32
 
-The STM32F030C8C6 is the core of the Epimethues finctionality portion of the board these components include U2. R7-10, C3-C6. Once assemble is complete you can proceed to program your STM32. SDA is pulled directly from Pin 13 of the LPC header and SLC is pulled directly from pin 14. Pinouts will be listed below. Proceed to Port assembly
+The STM32F030C8C6 is the core of the Epimethues finctionality portion of the board these components include U2. R7-10, C3-C6. Once assemble is complete you can proceed to program your STM32. SDA is pulled directly from PIN 13 of the LPC header and SLC is pulled directly from PIN 14. Pinouts will be listed below. Proceed to Port assembly
 
 ### Port Assembly
 
