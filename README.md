@@ -51,12 +51,22 @@ Install U3, DISP, i2c_EXP, RGB_EXP, if using the RGB_EXP port install jumper wir
 
 #Pinouts 
 
-Prog: ![alt_text](https://github.com/Darkone83/ModXo-RP2040-Tiny/blob/main/Images/PROG.png?raw=true)
+Prog: 
 
-U3: ![alt_text](https://github.com/Darkone83/ModXo-RP2040-Tiny/blob/main/Images/U3.png?raw=true)
+![alt_text](https://github.com/Darkone83/ModXo-RP2040-Tiny/blob/main/Images/PROG.png?raw=true)
 
-RGB_EXT: ![alt_text](https://github.com/Darkone83/ModXo-RP2040-Tiny/blob/main/Images/RGB_EXT.png?raw=true)
+U3: 
 
-i2c_EXP: ![alt_text](https://github.com/Darkone83/ModXo-RP2040-Tiny/blob/main/Images/i2c_EXP.png?raw=true)
+![alt_text](https://github.com/Darkone83/ModXo-RP2040-Tiny/blob/main/Images/U3.png?raw=true)
 
-DISP: ![alt_text](https://github.com/Darkone83/ModXo-RP2040-Tiny/blob/main/Images/DISP.png?raw=true)
+RGB_EXP: 
+
+![alt_text](https://github.com/Darkone83/ModXo-RP2040-Tiny/blob/main/Images/RGB_EXP.png?raw=true)
+
+i2c_EXP: 
+
+![alt_text](https://github.com/Darkone83/ModXo-RP2040-Tiny/blob/main/Images/i2c_EXP.png?raw=true)
+
+DISP: 
+
+![alt_text](https://github.com/Darkone83/ModXo-RP2040-Tiny/blob/main/Images/DISP.png?raw=true)
