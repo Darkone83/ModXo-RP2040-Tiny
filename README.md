@@ -71,7 +71,7 @@ Install U3, DISP, i2c_EXP, RGB_EXP, if using the RGB_EXP port install jumper wir
 
 ### Notice
 
-Soldering in the header for PROG is optional as you can insert pins and lighty wedge them in place to program the chip
+Soldering in the header for PROG is optional as you can insert pins and lighty wedge them in place to program the chip, R5, R6, LED1 and LED2 are optional
 
 
 
