@@ -63,15 +63,20 @@ The VCC Circuit pulls 5V and GND from the LPC 5V on PIN 6 and GND can be found o
 
 ### STM32
 
-The STM32F030C8C6 is the core of the Epimetheus functionality portion of the board these components include U2. R7-10, C3-C6. Once assembly is complete you can proceed to program your STM32. SDA is pulled directly from PIN 13 of the LPC header and SLC is pulled directly from PIN 14. Pinouts will be listed below. Proceed to Port assembly
+The STM32F030C8C6 is the core of the Epimetheus functionality portion of the board these components include U2. R7-10, C3-C6. Do not install R9 until programming is complete. Once assembly is complete you can proceed to program your STM32 Review the NRST diagram and temporarily install it for programming. Remove the NRSTS harness once you have verified and tested your firmware. Install R9 to complete the STM32 circuit. SDA is pulled directly from PIN 13 of the LPC header and SLC is pulled directly from PIN 14. Pinouts will be listed below. Proceed to Port assembly
+
+#### STM32 PWR and Enable
+Attach a +5V source to the 5V pad on the topside of the board. On the back of the board jumper both boxes labeled enable with a solder blob. This was designed this way to assist in isolating the STM32 and the ModXo. 
 
 ### Port Assembly
 
-Install U3, DISP, i2c_EXP, RGB_EXP, if using the RGB_EXP port install jumper wire from the tiny to the RGB TP to enable the functionality
+Install U3, DISP, i2c_EXP, RGB_EXP, if using the RGB_EXP port install the jumper wire from the tiny to the RGB TP to enable the functionality. Please note RGB out is not currently enabled on the ModXo and this included for future expansion.
+
+![alt_text](https://github.com/Darkone83/ModXo-PR2040-Tiny/blob/main/Images/RGN_EN.png?raw=true)
 
 ### Notice
 
-Soldering in the header for PROG is optional as you can insert pins and lighty wedge them in place to program the chip, R5, R6, LED1 and LED2 are optional
+Soldering in the header for PROG is optional as you can insert pins and lightly wedge them in place to program the chip, R5, R6, LED1 and LED2 are optional
 
 
 
@@ -102,4 +107,6 @@ DISP:
 
 ![alt_text](https://github.com/Darkone83/ModXo-RP2040-Tiny/blob/main/Images/DISP.png?raw=true)
 
+NRST Harnes:
 
+![alt_text](https://github.com/Darkone83/ModXo-RP2040-Tiny/blob/main/Images/NRTS.png?raw=true)
