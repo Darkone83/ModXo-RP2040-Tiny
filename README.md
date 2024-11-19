@@ -20,7 +20,6 @@ Or if you want to build out your own you can use this listing on <a href="https:
 
 
 
-For a smaller build, there is an iBOM (Smol) in the root folder and gerbers in the Smol directory
 
 For more information on the software side of things and the ModXo project please visit: https://github.com/Team-Resurgent/Modxo
 
@@ -39,7 +38,7 @@ No firmware is provided for the STM32 you will need to either code your own firm
 
 Both the Bom and iBOMS are located in the root folder. iBOMS are included for the full-size board and the new Smol revision, Large board has been moved to archive
 
-Archive: Will contain older functional gerbers and pick and place files as the board revs, along with older board images.
+Archive: Will contain older functional gerbers and pick and place files as the board revs, along with older board images and older iBOMS.
 
 Images: Contains branding images along with PCB images for the full-size and the Smol board, the schematic is also included here and is the same for both boards along with images of the various header pinouts and soldering locations
 
