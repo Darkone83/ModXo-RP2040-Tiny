@@ -54,7 +54,7 @@ Smol: Contains gerbers for the Smol board along with the pick-and-place file
 
 ### ModXo
 
-It's recommended to assemble the ModXo potion of the board first and test it. These parts include U1, D1, LED2, R1-4, R6, and the LCP headder. After functionality has been confirmed move on to the VCC circuit assembly
+It's recommended to assemble the ModXo potion of the board first and test it. These parts include U1, D1, LED2, R1-4, R6, and the LPC headder. After functionality has been confirmed move on to the VCC circuit assembly
 
 ### VCC circuit
 
