@@ -58,7 +58,7 @@ It's recommended to assemble the ModXo potion of the board first and test it. Th
 
 ### VCC circuit
 
-The VCC Circuit pulls 5V and GND from the LPC 5V on PIN 6 and GND can be found on PINs 2,12. The VCC circuit consists of the following parts U5, L1, C1-C2. After assembly, you can test PIN 5 of U5 to ensure a stable 3.3V output. Once you have confirmed you have 3.3V continue to assemble the STM32 circuit
+The VCC Circuit pulls 5V and GND from the LPC 5V on the 5V pad and GND can be found on PINs 2,12. The VCC circuit consists of the following parts U5, L1, C1-C2. After assembly, you can test PIN 5 of U5 to ensure a stable 3.3V output. Once you have confirmed you have 3.3V continue to assemble the STM32 circuit
 
 ### STM32
 
