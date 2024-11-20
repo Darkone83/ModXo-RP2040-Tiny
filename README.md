@@ -91,7 +91,7 @@ Prog:
 
 U3: 
 
-<img src="https://github.com/Darkone83/ModXo-RP2040-Tiny/blob/main/Images/U3.png" width="150">
+<img src="https://github.com/Darkone83/ModXo-RP2040-Tiny/blob/main/Images/U3.png" width="275">
 
 RGB_EXP: 
 
