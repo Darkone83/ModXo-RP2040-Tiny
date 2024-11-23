@@ -74,7 +74,7 @@ Install U3, DISP, i2c_EXP, RGB_EXP, if using the RGB_EXP port install the jumper
 
 ### Notice
 
-Soldering in the header for PROG is optional as you can insert pins and lightly wedge them in place to program the chip, R5, R6, LED1, and LED2 are optional
+Soldering in the header for PROG is optional as you can insert pins and lightly wedge them in place to program the chip, R5, R6, LED1, and LED2 are optional. LED2 needs to be installed reverse of what the silk screen has labeled
 
 
 
