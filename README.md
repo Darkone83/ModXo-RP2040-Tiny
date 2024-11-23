@@ -37,7 +37,7 @@ Fully assembled boards and PCB's can be purchased via <a href="https://darkonecu
 
 PCB Only: <a href="https://www.darkonecustoms.com/store/p/modxo-epimetheus-pcb">Here</a>
 
-Fully Assembled Board: <a href="https://www.darkonecustoms.com/store/p/modxo-epimetheus-fully-assembled">Here</a> *Fully assembled boards do not contain any firmware for the STM32
+Fully Assembled Board: <a href="https://www.darkonecustoms.com/store/p/modxo-epimetheus-fully-assembled">Here</a> *Fully assembled boards do not contain any firmware for the STM32*
 
 
 # Navigation
