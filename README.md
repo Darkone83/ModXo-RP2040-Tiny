@@ -31,7 +31,7 @@ No firmware is provided for the STM32 you will need to either code your own firm
 
 
 
-#Purchase
+### Purchase
 
 Fully assembled boards and PCB's can be purchased via <a href="https://darkonecustoms.com">Darkone Customs</a>
 
