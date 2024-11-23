@@ -31,7 +31,13 @@ No firmware is provided for the STM32 you will need to either code your own firm
 
 
 
+#Purchase
 
+Fully assembled boards and PCB's can be purchased via <a href="https://darkonecustoms.com">Darkone Customs</a>
+
+PCB Only: <a href="https://www.darkonecustoms.com/store/p/modxo-epimetheus-pcb">Here</a>
+
+Fully Assembled Board: <a href="https://www.darkonecustoms.com/store/p/modxo-epimetheus-fully-assembled">Here</a> *Fully assembled boards do not contain any firmware for the STM32
 
 
 # Navigation
