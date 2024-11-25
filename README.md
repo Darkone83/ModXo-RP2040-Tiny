@@ -72,7 +72,7 @@ The STM32F030C8C6 is the core of the Epimetheus functionality portion of the boa
 #### STM32 PWR and Enable
 Attach a +5V source to the 5V pad on the topside of the board. On the back of the board jumper, both boxes are labeled enable with a solder blob. This was designed this way to assist in isolating the STM32 and the ModXo. As a quick tap you can pull +5V from the bottom of LED2. 
 
-<img src="https://github.com/Darkone83/ModXo-RP2040-Tiny/blob/main/Images/5V_TAP.png" width="275">
+<img src="https://github.com/Darkone83/ModXo-RP2040-Tiny/blob/main/Images/5V_TAP.png" width="275"> <img src="https://github.com/Darkone83/ModXo-RP2040-Tiny/blob/main/Images/SM_EN.png" width="275">
 
 ### Port Assembly
 
