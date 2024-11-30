@@ -29,6 +29,10 @@ For more information on Epimetheus please visit: https://github.com/OfficialTeam
 
 No firmware is provided for the STM32 you will need to either code your own firmware or legally obtain a firmware image
 
+#### Builder's note
+
+If your XBOX is a revision 1.6 you will need to rebuild the LPC manually or use a LPC rebuild PCB.
+
 
 
 # Purchase
