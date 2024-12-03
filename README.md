@@ -4,7 +4,7 @@
 
 A carrier board for the ModXo V1.0 with added support for Epimetheus
 
-This is designed around Team Resutgents and Shalx's work on ModXo an open-source modchip, with additional support for OfficialTeamUIX's Epimetheus incorporated into the PCB
+This is designed around Team Resutgent's and Shalx's work on ModXo an open-source modchip, with additional support for OfficialTeamUIX's Epimetheus incorporated into the PCB
 
 Mouser Cart: <a href="https://www.mouser.com/ProjectManager/ProjectDetail.aspx?AccessID=a62729557a">Here</a>
 
