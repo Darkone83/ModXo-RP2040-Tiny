@@ -6,6 +6,8 @@ A carrier board for the ModXo V1.0 with added support for Epimetheus
 
 This is designed around Team Resutgent's and Shalx's work on ModXo an open-source modchip, with additional support for OfficialTeamUIX's Epimetheus incorporated into the PCB
 
+<img src="https://github.com/Darkone83/ModXo-RP2040-Tiny/blob/main/Images/Board.jpg" width=350>
+
 Mouser Cart: <a href="https://www.mouser.com/ProjectManager/ProjectDetail.aspx?AccessID=a62729557a">Here</a>
 
 RP2040 Tiny: <a href="https://www.aliexpress.us/item/3256805837992528.html?spm=a2g0o.productlist.main.21.2f7926c5zGZBOW&algo_pvid=a59806cb-1f8b-4000-8595-0b05ca9fd6e6&algo_exp_id=a59806cb-1f8b-4000-8595-0b05ca9fd6e6-10&pdp_npi=4%40dis%21USD%217.22%214.48%21%21%217.22%214.48%21%402101c80217323295821625728e786b%2112000035369681956%21sea%21US%21196794698%21X&curPageLogUid=5ESoEvR4Kxce&utparam-url=scene%3Asearch%7Cquery_from%3A">AliExpress</a>, <a href="https://www.amazon.com/gp/product/B0CHDW1MY5/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1">Amazon</a>
