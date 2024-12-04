@@ -71,10 +71,10 @@ The VCC Circuit pulls 5V and GND from the LPC 5V on the 5V pad and GND can be fo
 
 ### STM32
 
-The STM32F030C8C6 is the core of the Epimetheus functionality portion of the board these components include U2. R7-10, C3-C6. Do not install R9 until you have programmed your STM32. Once assembly is complete you can proceed to program your STM32 Review the NRST Harness diagram and temporarily install it for programming. The NRST wire will connect to the top pad of R9 (the one closest to the MCU) and the GND side to any viable GND source. Remove the NRSTS harness once you have verified and tested your firmware. Install R9 to complete the STM32 circuit. SDA is pulled directly from PIN 13 of the LPC header and SLC is pulled directly from PIN 14. Pinouts will be listed below. Proceed to Port assembly
+The STM32F030C8C6 is the core of the Epimetheus functionality portion of the board these components include U2. R7-10, C3-C6. Do not install R9 until you have programmed your STM32. Once assembly is complete you can proceed to program your STM32 Review the NRST Harness diagram and temporarily install it for programming. The NRST wire will connect to the top pad of R9 (the one closest to the MCU) and the GND side to any viable GND source. Remove the NRST harness once you have verified and tested your firmware. Install R9 to complete the STM32 circuit. SDA is pulled directly from PIN 13 of the LPC header and SLC is pulled directly from PIN 14. Pinouts will be listed below. Proceed to Port assembly
 
 #### STM32 PWR and Enable
-Attach a +5V source to the 5V pad on the topside of the board. On the back of the board jumper, both boxes are labeled enable with a solder blob. This was designed this way to assist in isolating the STM32 and the ModXo. As a quick tap you can pull +5V from the bottom of LED2. 
+Attach a +5V source to the 5V pad on the topside of the board. On the back of the board jumper, both boxes are labeled enable with a solder blob. This was designed this way to assist in isolating the STM32 and the ModXo. As a quick tap, you can pull +5V from the bottom of LED2. 
 
 <img src="https://github.com/Darkone83/ModXo-RP2040-Tiny/blob/main/Images/5V_TAP.png" width="275"> <img src="https://github.com/Darkone83/ModXo-RP2040-Tiny/blob/main/Images/SM_EN.png" width="275">
 
