@@ -91,7 +91,23 @@ Install U3, DISP, i2c_EXP, RGB_EXP, if using the RGB_EXP port install the jumper
 Soldering in the header for PROG is optional as you can insert pins and lightly wedge them in place to program the chip, R5, R6, LED1, and LED2 are optional. LED2 needs to be installed reverse of what the silk screen has labeled
 
 
+# Installation
 
+## 1.0 - 1.4
+
+Install your pin header, Run a short wire from any suitable D0 point to either ground or the D0 point on the ModXo-Basic. Plug-in your ModXo-Basic to the XBOX LPC port (after you have flashed your favorite firmware) and enjoy.
+
+#### D0 Point options
+
+![alt_text](https://github.com/Darkone83/ModXo-RP2040-Tiny/blob/main/Images/d0.png?raw=true)
+
+## 1.6
+
+Either install a LPC rebuild QSB or rebuild your LPC per the rebuild diagram below. Plug-in your ModXo-Basic to the XBOX LPC port (after you have flashed your favorite firmware) and enjoy.
+
+#### 1.6 LPC rebuild
+
+![alt_text](https://github.com/Darkone83/ModXo-RP2040-Tiny/blob/main/Images/16rebuild.png?raw=true)
 
 # Pinouts 
 
