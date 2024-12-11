@@ -2,6 +2,8 @@
 
 ![alt text](https://github.com/Darkone83/ModXo-RP2040-Tiny/blob/main/Images/logo.png?raw=true) <img src="https://github.com/Darkone83/ModXo-RP2040-Tiny/blob/main/Images/team-resurgent.png" width="180"> <img src="https://github.com/Darkone83/ModXo-RP2040-Tiny/blob/main/Images/Nemesis.png" width=180> ![alt text](https://github.com/Darkone83/ModXo-RP2040-Tiny/blob/main/Images/DC%20logo.png?raw=true)
 
+<a href="https://discord.gg/k2BQhSJ"><img src="https://github.com/Darkone83/ModXo-RP2040-Tiny/blob/main/Images/discord.svg"></a>
+
 A carrier board for the ModXo V1.0 with added support for Epimetheus
 
 This is designed around Team Resutgent's and Shalx's work on ModXo an open-source modchip, with additional support for OfficialTeamUIX's Epimetheus incorporated into the PCB
