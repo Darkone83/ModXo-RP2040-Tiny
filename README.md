@@ -84,7 +84,7 @@ Attach a +5V source to the 5V pad on the topside of the board. On the back of th
 
 ### Port Assembly
 
-Install U3, DISP, i2c_EXP, RGB_EXP, if using the RGB_EXP port install the jumper wire from the tiny to the RGB TP to enable the functionality. Please note RGB out is not currently enabled on the ModXo and this is included for future expansion.
+Install U3, DISP, i2c_EXP, RGB_EXP, if using the RGB_EXP port install the jumper wire from the tiny to the RGB TP to enable the functionality.
 
 ![alt_text](https://github.com/Darkone83/ModXo-RP2040-Tiny/blob/main/Images/RGB_EN.png?raw=true)
 
